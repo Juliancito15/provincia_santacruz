@@ -7,7 +7,7 @@ p{
     
 }
 a{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 h1{
     color: rgb(0, 0, 0);
@@ -62,8 +62,16 @@ table tr th{
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
 }
 #info{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     background: linear-gradient(90deg, rgb(250, 250, 250)100%);
+}
+.fondo{
+    border: black;
+    border-radius: 500%;
+    border-width: 500%;
+    width: 500px;
+    height: 450px;
+
 }
 .listas{
     color: rgb(255, 255, 255);
